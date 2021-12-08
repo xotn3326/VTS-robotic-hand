@@ -1,4 +1,4 @@
-# VTS-robotic-hand
+# Vision-Tactile based Soft robotic hand in real-time
 
 Official implementation for DGU-SoRo 2021 paper 'Vision-Tactile based Soft robotic hand in real-time'.
 
