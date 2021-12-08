@@ -19,11 +19,14 @@ pip install -r requirements.txt
 ## Evaluate
 
 For communicating the serial with the board, 
-  python finger_fold_5way.py
-  
-For only detecting hand joints,
-  python only_camera.py
+```
+python finger_fold_5way.py
+```
 
+For only detecting hand joints,
+```
+python only_camera.py
+```
 
 ## Contributor
 
