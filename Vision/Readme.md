@@ -30,4 +30,6 @@ python only_camera.py
 
 ## Contributor
 
-Tae-Soo Jeong, B.S. candidate in the Department of Mechanical, Robotics and Energy Engineering, Dongguk University.
+Tae-Soo Jeong,
+- Undergraduate researcher in IRobot Laboratory 
+- B.S. candidate in the Department of Mechanicaln Robotics and Energy Engineering, Dongguk University
