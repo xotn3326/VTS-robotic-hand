@@ -11,7 +11,7 @@ I use MediaPipe provided by Google for detecting hand-joints and with these join
 conda env create VTS-hand python=3.8
 conda activate VTS-hand
 pip install -r requirements.txt
-'''
+```
 
 - 1 RGB camera
 - boards for serial communication
